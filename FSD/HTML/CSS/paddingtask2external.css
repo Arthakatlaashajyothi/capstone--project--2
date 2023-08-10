@@ -1,0 +1,39 @@
+.p{
+	height:500px;
+	width:900px;
+	background-color: blue;
+	padding-top: 2px;
+	border: 5px solid black;
+}
+.c1{
+	height:400px;
+	width:800px;
+	background-color: green;
+	margin-top:50px;
+	margin-bottom: 50px;
+	margin-left:50px;
+	margin-right: 50px;
+	border: 5px solid black;
+
+}
+.c2{
+	height:300px;
+	width:700px;
+	background-color: pink;
+	margin-top:50px;
+	margin-bottom: 50px;
+	margin-left:50px;
+	margin-right: 50px;
+	border: 5px solid black;
+}
+.c3{
+	height:200px;
+	width:600;
+	background-color: yellow;
+	margin-top:50px;
+	margin-bottom: 50px;
+	margin-left:50px;
+	margin-right: 50px;
+	border: 5px solid black;
+	
+}

@@ -1,0 +1,61 @@
+/*.external{
+	color: pink;
+	background-color: skyblue;
+}*/
+p,h1{
+	color: green;
+	font-size:30px;
+
+}
+*{
+	font-family: cursive;
+	margin:0px;
+	padding: 0px
+}
+p{
+	color: white;
+	background-color: black
+
+}
+input[type]{
+	color: green;
+	background-color:skyblue
+}
+input[type="text"]{
+	color: blue;
+	background-color:red
+}
+input[type="number"]{
+	color: red;
+	background-color:skyblue
+}
+a[href]{
+	background-color: red
+}
+img[src]{
+	height: 100px;
+	width: 100px;
+	border: 1000px skyblue
+}
+div{
+	height: 30px;
+	width:40;
+	background-color:skyblue;
+}
+a:link{
+	color:skyblue;
+}
+a:visited{
+	color: pink
+}
+a:hover{
+	color: green
+}
+a:active{
+	color: yellow
+}
+div:hover{
+	background-color: pink;
+	height: 500px;
+	width:500px;
+}

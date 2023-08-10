@@ -1,0 +1,26 @@
+.parent{
+	height: 200px;
+	width:1000px;
+}
+.asha{
+	height: 200px;
+	width:200px;
+	background-color:pink;
+	margin:20px;
+	float:left; 
+}
+.asha1{
+	height: 200px;
+	width:200px;
+	background-color:pink;
+	margin:20px;
+	float:left; 
+
+}
+.asha2{
+	height: 200px;
+	width:200px;
+	background-color:pink;
+	margin:20px;
+	float:right; 
+}

@@ -1,0 +1,53 @@
+.parent{
+	display:flex;
+	flex-direction:row;
+	height:100px;
+	width:500px;
+
+}
+.child{
+	width:70px;
+	height:20px;
+	margin:20px;
+	padding: 10px;
+}
+#c1
+{
+	border:10px dashed pink;
+}
+#c2
+{
+   border:10px dotted pink;
+}
+#c3
+{
+   border:10px solid pink;
+}
+#c4
+{
+   border:10px double pink;
+}
+#c5
+{
+   border:10px groove pink;
+}
+#c6
+{
+   border:10px ridge pink;
+}
+#c7
+{
+   border:10px inset pink;
+}
+#c8
+{
+   border:10px outset pink;
+}
+#c9
+{
+   border:10px none pink;
+}
+#c10
+{
+   border:10px hidden pink;
+}
